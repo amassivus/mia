@@ -1,10 +1,10 @@
 # mia
 
-Milli İletişim Ağı Framework'ü
+Milli İletişim Ağı Framework'ü Özgür Yazılım odaklı bir iletişim ve geliştirme altyapısıdır.
 
 # License
 
-Milli İletişim Ağı Framework'ü
+Milli İletişim Ağı Framework'ü Özgür Yazılım odaklı bir iletişim ve geliştirme altyapısıdır.
 
 Copyright (C) 2024-2025 QB Networks
 
